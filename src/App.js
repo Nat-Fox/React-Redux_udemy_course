@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
 import './App.css'
-import Hello from './Hello/Hello'
+import Principal from './Principal/Principal'
 
 class App extends Component {
   render() {
     return (
       <div>            
-          <Hello />
+          <Principal />
       </div>
     );
   }
